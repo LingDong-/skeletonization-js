@@ -1,0 +1,48 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: gainsboro;
+}
+
+#demo-h1 {
+  font-style: italic;
+  color: #373fff;
+  padding:0px;
+  margin:5px;
+  font-size:26px;
+  font-weight: bold;
+}
+canvas{
+  padding:2px;
+  
+}
+div{
+  margin-bottom:3px;
+}
+#demo{
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 1px rgba(0,0,0,0.2);
+  padding:20px;
+  width:600px;
+}
+
+#readme{
+  margin-top: 50px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 1px rgba(0,0,0,0.2);
+  padding:40px;
+  
+}
+
+pre{
+  background-color: gainsboro;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: scroll;
+}
